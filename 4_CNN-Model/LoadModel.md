@@ -3,21 +3,21 @@
 
 <img width=600 src="https://user-images.githubusercontent.com/44635266/64068043-5e78fe00-cc6d-11e9-8573-966f53bff015.jpg">
 
-Resu;t
+Result
 
 ```
 VGG16 Prediction
-American_Staffordshire_terrier 0.22949052
-Staffordshire_bullterrier 0.08498636
-whippet 0.076186866
+Egyptian_cat 0.8088314
+tabby 0.07988469
+tiger_cat 0.053063907
 
 ResNet50 Predictions
-kelpie 0.5750259
-dingo 0.11919797
-Rhodesian_ridgeback 0.032251507
+Egyptian_cat 0.9247334
+tabby 0.044209383
+tiger_cat 0.017561715
 
 Inception_V3 Predictions
-web_site 0.95265007
-bow 0.047188547
-stopwatch 0.00016059366
+clog 1.0
+pitcher 2.072018e-23
+saltshaker 1.37444e-23
 ```
