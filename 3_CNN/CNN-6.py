@@ -20,7 +20,7 @@ train_data_dir = __BASE_DIR__ + '/src/data/fruits-360/train'
 validation_data_dir = __BASE_DIR__ + '/src/data/fruits-360/validation'
 
 train_datagen = ImageDataGenerator(
-rescale=1. / 255,
+    rescale=1. / 255,
     rotation_range=30,
     width_shift_range=0.3,
     height_shift_range=0.3,
